@@ -1,0 +1,8 @@
+({
+    appDir: '../',
+    baseUrl:"scripts",
+    dir:"../app/dist",
+    mainConfigFile:"../app/main.js",
+    name:"main",
+    optimizeCss:"optimize"
+})
